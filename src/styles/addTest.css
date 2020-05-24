@@ -1,0 +1,99 @@
+.testSave{
+    margin-top: 5%;
+    margin-bottom: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:#F8F9F9;
+
+    border: solid 1.4px #eee8e8;
+    border-radius: 4px;
+    -webkit-box-shadow: -1px 6px 15px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 6px 15px -7px rgba(0,0,0,0.75);
+     box-shadow: -1px 6px 15px -7px rgba(0,0,0,0.75);
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+}
+
+.div-btn-datos{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+}
+.div-btn-save{
+    margin-right: 4%;
+}
+
+.div-datos-test{
+    border: 2px solid white;
+    border-radius: 2px;
+}
+
+.div-datos-pregunta{
+    border: 0.5px solid white;
+    border-radius: 5px;
+}
+.div-datos-eneatipos{
+    border: 0.5px solid white;
+    border-radius: 2px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.alin-btn-enea{
+    text-align: right;
+}
+.collection {
+    position: initial;
+}
+.collapsible .collection {
+    padding-bottom: 2%;
+}
+.collection .collection-item {
+    background:rgba(191, 219, 241, 0.15);
+}
+.collection.with-header .collection-header {
+    background-color: #fafafa;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 10px 20px;
+}
+.div-btn-datos2{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+    justify-content: flex-end;
+    margin-top: 1%;
+}
+
+.mostrar{
+    display:block;
+}
+.ocultar{
+    display: none;
+}
+.fixed-action-btn {
+    position: initial;
+}
+.btn-CRUD{
+    padding: 0 !important;
+}
+
+.i-CRUD{
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+.collapsible-header {
+    background-color: #F8F9F9;
+}
+
+.collapsible-body {
+   background: #EBF5FB;
+}
+.row_colapsible{
+    margin-left: 0px;
+    margin-bottom: 0px;
+}

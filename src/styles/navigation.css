@@ -1,0 +1,21 @@
+#menu-fijo{
+    height: 10%;
+    width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+    left: 0; /* Posicionamos la cabecera al lado izquierdo */
+    top: 0; /* Posicionamos la cabecera pegada arriba */
+    position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+    z-index: 1;
+}
+#body-nav{
+margin-right: 5%;
+}
+
+nav {
+    background: #283e4a; 
+}
+.dropdown-content{
+  top: 100% !important;
+}
+.dropdown-content li>a, .dropdown-content li>span {
+    color: #34495E;
+}
