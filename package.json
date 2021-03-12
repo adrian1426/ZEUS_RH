@@ -7,7 +7,7 @@
     "axios": "^0.18.0",
     "easytimer.js": "^3.0.1",
     "html2canvas": "^1.0.0-alpha.12",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "mongoose": "^5.4.10",
     "mongoose-encryption": "^2.0.2",
     "mongoose-field-encryption": "2.3.1",
