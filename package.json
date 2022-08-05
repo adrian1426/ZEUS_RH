@@ -8,7 +8,7 @@
     "easytimer.js": "^3.0.1",
     "html2canvas": "^1.0.0-alpha.12",
     "jspdf": "^1.5.3",
-    "mongoose": "^5.4.10",
+    "mongoose": "^5.7.5",
     "mongoose-encryption": "^2.0.2",
     "mongoose-field-encryption": "2.3.1",
     "react": "^16.8.1",
